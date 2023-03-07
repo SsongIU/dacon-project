@@ -1,2 +1,2 @@
-# Microbusines-Density-Forecasting
-https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting
+# 제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회
+https://dacon.io/competitions/official/236064/overview/description
